@@ -298,7 +298,7 @@ spec:
               storage: 3Gi
 
     mongos:
-      size: 1
+      size: 5
 #      # for more configuration fields refer to https://docs.mongodb.com/manual/reference/configuration-options/
 #      configuration: |
 #        systemLog:
